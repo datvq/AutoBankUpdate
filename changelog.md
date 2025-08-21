@@ -1,0 +1,3 @@
+# v0.1.6
+
+- Thử cải thiện vấn đề khởi động chậm...

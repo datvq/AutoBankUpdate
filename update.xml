@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>0.1.6</version>
+  <url>https://raw.githubusercontent.com/datvq/AutoBankUpdate/refs/heads/main/AutoBank.zip</url>
+  <changelog>https://raw.githubusercontent.com/datvq/AutoBankUpdate/refs/heads/main/changelog.md</changelog>
+  <mandatory minversion="0.1.6">true</mandatory>
+</item>
